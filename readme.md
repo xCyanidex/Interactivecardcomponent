@@ -62,7 +62,7 @@ I will continue to learn more about JS and how it works to add more types of ine
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/js/default.asp) - This helped me in learning about JavaScript event handler.
+- [W3Schools](https://www.w3schools.com/js/default.asp) - This helped me in learning about JavaScript event handler.
 
 ## Author
 
