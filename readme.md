@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/xCyanidex/interactivecardcomponent)
+- Live Site URL: [Add live site URL here](https://interactivecardcomponent.vercel.app/)
 
 ## My process
 
@@ -66,6 +66,5 @@ I will continue to learn more about JS and how it works to add more types of ine
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Github - [xCyanidex](https://github.com/xCyanidex/NftCardPreview)
 - Frontend Mentor - [@xCyanidex](https://www.frontendmentor.io/profile/xCyanidex)
