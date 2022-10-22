@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/xCyanidex/interactivecardcomponent)
-- Live Site URL: [Add live site URL here](https://interactivecardcomponent.vercel.app/)
+- Solution URL: [Github](https://github.com/xCyanidex/interactivecardcomponent)
+- Live Site URL: [Live Site](https://interactivecardcomponent.vercel.app/)
 
 ## My process
 
