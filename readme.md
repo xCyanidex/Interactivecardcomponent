@@ -36,8 +36,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/xCyanidex/interactivecardcomponent)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-card-solution-using-vanilla-js-qkJVAP-vRK)
 - Live Site URL: [Live Site](https://interactivecardcomponent.vercel.app/)
+- Solution Repo: [Github](https://github.com/xCyanidex/interactivecardcomponent)
 
 ## My process
 
