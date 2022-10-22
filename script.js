@@ -2,8 +2,16 @@ let ratingbtn = document.querySelectorAll(".rating-btn");
 
 let submitbtn = document.querySelector(".submit-btn");
 submitbtn.addEventListener("click", function () {
-  document.querySelector(".div-1").classList.replace("block", "hidden");
-  document.querySelector(".div-2").classList.replace("hidden", "block");
+  if (
+    document.querySelector(".rating-value").innerHTML == 1 ||
+    document.querySelector(".rating-value").innerHTML == 2 ||
+    document.querySelector(".rating-value").innerHTML == 3 ||
+    document.querySelector(".rating-value").innerHTML == 4 ||
+    document.querySelector(".rating-value").innerHTML == 5
+  ) {
+    document.querySelector(".div-1").classList.replace("block", "hidden");
+    document.querySelector(".div-2").classList.replace("hidden", "block");
+  }
 });
 
 document.querySelectorAll(".rating-btn").forEach((item) => {
@@ -41,7 +49,7 @@ document.querySelectorAll(".rating-btn").forEach((item) => {
 
     valueRating = e.target.getAttribute("value");
     document.querySelector(".rating-value").innerHTML = valueRating;
-    console.log(document.querySelector(".rating-value").innerHTML);
+
     e.target.classList.replace("bg-gray-circle", "bg-medium-gray-custom");
     e.target.classList.replace("text-light-gray-custom", "text-white-custom");
   });
