@@ -1,0 +1,8 @@
+node_modules
+design
+input.css
+package.json
+package-lock.json
+README2.md
+style-guide.md
+tailwind.config.js
